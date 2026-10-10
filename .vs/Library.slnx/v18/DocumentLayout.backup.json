@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D32E270C-7028-7BD8-792D-C69059A28440}|Library\\Library.csproj|c:\\users\\seif alaa\\source\\repos\\library\\library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32E270C-7028-7BD8-792D-C69059A28440}|Library\\Library.csproj|solutionrelative:library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32E270C-7028-7BD8-792D-C69059A28440}|Library\\Library.csproj|c:\\users\\seif alaa\\source\\repos\\library\\library\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32E270C-7028-7BD8-792D-C69059A28440}|Library\\Library.csproj|solutionrelative:library\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Library/True/SqlTable/dbo.users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32E270C-7028-7BD8-792D-C69059A28440}|Library\\Library.csproj|c:\\users\\seif alaa\\source\\repos\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32E270C-7028-7BD8-792D-C69059A28440}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32E270C-7028-7BD8-792D-C69059A28440}|Library\\Library.csproj|c:\\users\\seif alaa\\source\\repos\\library\\library\\work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32E270C-7028-7BD8-792D-C69059A28440}|Library\\Library.csproj|solutionrelative:library\\work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32E270C-7028-7BD8-792D-C69059A28440}|Library\\Library.csproj|c:\\users\\seif alaa\\source\\repos\\library\\library\\work\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32E270C-7028-7BD8-792D-C69059A28440}|Library\\Library.csproj|solutionrelative:library\\work\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\Library\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\Library\\Controllers\\BookController.cs*",
+              "RelativeToolTip": "Library\\Controllers\\BookController.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T23:24:33.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\Library\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\Library\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Library\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T23:24:28.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Library/True/SqlTable/dbo.users.sql",
+              "ToolTip": "dbo.users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-09T23:18:29.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T23:16:43.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\Library\\Work\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Library\\Work\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\Library\\Work\\UnitOfWork.cs",
+              "RelativeToolTip": "Library\\Work\\UnitOfWork.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T23:15:44.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\Library\\Work\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Library\\Work\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Seif Alaa\\source\\repos\\Library\\Library\\Work\\IUnitOfWork.cs",
+              "RelativeToolTip": "Library\\Work\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T23:15:40.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
